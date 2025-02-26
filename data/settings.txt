@@ -1,0 +1,8 @@
+### GENERAL USE ###
+databaseFld	str	C:\\Users\della\\Work\\Simplus\\PUB Study\\Barrier Route\\Database\\		#Database Folder Location
+configFld	str	C:\\Users\\della\\Work\\Simplus\\PUB Study\\Barrier Route\\Configuration		#Configuration Folder Location
+newRouteFld	str	C:\\Users\\della\\Work\\Simplus\\PUB Study\\Barrier Route\\RouteResult\\
+
+mdb_files	list	Scn2065.mdb
+input_files	list	Scn2065_updated_route_codes_barrier.txt
+barrierSvp	str	BarrierServicePoint.txt
